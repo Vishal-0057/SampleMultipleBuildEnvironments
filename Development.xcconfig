@@ -1,0 +1,10 @@
+//
+//  Development.xcconfig
+//  SampleMultipleBuildEnvironments
+//
+//  Created by abhayam rastogi on 6/23/15.
+//  Copyright (c) 2015 Intelligrape. All rights reserved.
+//
+
+BASE_URL = fameplus-api.qa3.intelligrape.net
+PROTOCOL = http
